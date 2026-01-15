@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">~ Since 2023<br>~ Network Engineering Student</p>
+<p align="left">~ Learning Since 2023<br>~ Network Engineering Student</p>
 
 ###
 
